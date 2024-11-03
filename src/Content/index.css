@@ -1,0 +1,36 @@
+.content{
+    margin-top:10px;
+}
+.dash{
+    color:grey;
+}
+
+
+.link{
+    color:grey;
+    text-decoration: none;
+    margin-left:6px;
+    cursor:pointer;
+}
+.url{
+    text-decoration: none;
+
+}
+.link-container{
+    display:flex;
+    flex-direction:row;
+}
+.points{
+    color:grey;
+    text-decoration: none;
+    cursor:pointer;
+    margin-right:15px;
+
+}
+.span-points{
+    text-decoration: none;
+    margin-left:15px;
+
+
+
+}
